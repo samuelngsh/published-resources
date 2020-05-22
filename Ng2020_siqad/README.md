@@ -8,6 +8,8 @@ Notes:
 
 * The mu setting is embedded in the filenames. e.g. `or_mu28.sqd` refers to the OR gate with mu = -0.28.
 
+* For all designs, `lambda_TF = 5 nm` and `epsilon_r = 5.6` as stated in the SiQAD paper.
+
 * All of the input perturbers are present. Toggle through different input configurations by deleting the input perturbers.
 
 * As stated in the SiQAD paper, it is expected that further adaptations are required when the gates/circuits are incorporated in larger systems.
